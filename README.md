@@ -1,7 +1,7 @@
 # PerfectPerformance
 SirionLabs HackFest 2022 - Supplier Performance 
 
-It contains the dataset of 500,000 suppliers in the file FinalList.txt and the Perfect supplier forthe client in the file PerfectPerformance.txt
+It contains the dataset of 500,000 suppliers in the file FinalList.txt and the Perfect supplier for the client in the file PerfectPerformance.txt
 
 Step 1: Download the zip file
 
@@ -50,7 +50,7 @@ you need to input data individually into the .txt files like
 5. enter Supplier rating in SupplierRatings.txt file
 6. enter Supplier avg. delivery Time in SupplierADT.txt file
 7. enter Supplier years in SupplierYears.txt file
-8. enter ssupplier escalations in SupplierEscalations.txt file
+8. enter supplier escalations in SupplierEscalations.txt file
 9. enter Supplier resources in SupplierResources.txt file
 
 Then run transfer_data.java file. After this run PerfectPerformance.java file 
