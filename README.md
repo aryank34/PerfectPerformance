@@ -36,4 +36,4 @@ you need to input data individually into the .txt files like
 9. enter Supplier resources in SupplierResources.txt file
 
 Then run transfer_data.java file. After this run PerfectPerformance.java file 
-to get the one Perfect Supplier for the client.
+to get the one Perfect Supplier for the client
