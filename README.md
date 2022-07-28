@@ -9,7 +9,7 @@ Step 2: Import the zip file into NetBeans (or any other Java IDE)
 
 (All the datasets are provided in the zip, no need to change anything.)
 
-Step 3: Run PerfectPerformance.java file which will find the perfect supplier.
+Step 3: Run the PerfectPerformance.java file which will find the perfect supplier.
 
 Step 4: To check the results, open the file name PerfectPerformance.txt
 
@@ -53,5 +53,5 @@ you need to input data individually into the .txt files like
 8. enter supplier escalations in SupplierEscalations.txt file
 9. enter Supplier resources in SupplierResources.txt file
 
-Then run transfer_data.java file. After this run PerfectPerformance.java file 
+Then run transfer_data.java file. After this run the PerfectPerformance.java file 
 to get the one Perfect Supplier for the client
